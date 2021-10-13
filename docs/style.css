@@ -109,7 +109,7 @@ body {
     position: relative;
     background-color: hsl(245, 75%, 52%);
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     color: hsl(225, 100%, 98%);
     text-align: center;
     font-size: 16px;
