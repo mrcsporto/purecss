@@ -19,8 +19,8 @@ body {
 }
 
 .container {
-    width: 350px;
-	height: 550px;
+    width: 400px;
+    height: 700px;
     margin: 100px auto;
     border-radius: 20px;
     background-color:white;
@@ -49,7 +49,7 @@ body {
     color: hsl(224, 23%, 55%);
     font-size: 12px;
     position: relative;
-	text-align: center;
+    text-align: center;
     padding-left: 20%;
     padding-right: 20%;
 }
