@@ -6,7 +6,7 @@ body {
     background-image: url("img/pattern-background-desktop.svg");
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
-    max-width: 1440px;
+    background-size: 100% 50%;
   }
 
 .attribution { 
