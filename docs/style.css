@@ -6,7 +6,6 @@ body {
     background-image: url("img/pattern-background-desktop.svg");
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
-    max-width: 1440px;
   }
 
 .attribution { 
@@ -20,7 +19,7 @@ body {
 
 .container {
     width: 400px;
-	height: 700px;
+    height: 700px;
     margin: 100px auto;
     border-radius: 20px;
     background-color:white;
